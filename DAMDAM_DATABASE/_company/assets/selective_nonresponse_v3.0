@@ -1,0 +1,11 @@
+├── 01_MANIFESTO.pdf (최종 규격 및 사용 가이드)
+├── 02_PSD_CORE/
+│   ├── page_01.psd
+│   ├── page_02.psd
+│   └── ...
+│   └── page_12.psd (총 12개 파일, 각 파일 내 Layer Grouping 준수)
+├── 03_ASSETS_LIB/
+│   ├── character_model_sheet.png (고해상도 캐릭터 원본)
+│   ├── background_elements.png (반복 사용 가능한 배경 패턴 및 오브젝트)
+└── 04_GUIDELINES/
+    └── CTA_Layer_Definition.docx (CTA 레이어명, 위치 좌표, 사이즈 명시)
