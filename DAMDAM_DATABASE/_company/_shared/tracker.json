@@ -50,6 +50,74 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-06-17T01-57/_report.md\n- Writer: 이전 세션에서 논의된 두 가지 주제('디지털 경계' vs '감정 노동') 중, 이번 주 콘텐츠로 최종 확정할 단일 웹툰 주제를 선택하고, 모든 \n- Designer: Writer가 제공한 최종 확정 스크립트를 기준으로, 인스타그램 캐러셀 Mockup 초안(최소 5페이지 분량)을 완성합니다. 이때 Blue-Gr\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 이전 세션에서 논의된 두 가지 주제('디지털 경계' vs '감정 노동') 중, 이번 주 콘텐츠로 최종 확정할 단일 웹툰 주제를 선택하고, 모든 페이지 컷별 스크립트와 CTA/Save Point 문구를 명확하게 정리하여 Designer에게 전",
       "completedAt": "2026-06-17T02:10:42.898Z"
+    },
+    {
+      "id": "20260617034755-vgac",
+      "title": "**파일 검토:** `e:\\01_project\\AI_company\\DAMDAM_DATABASE\\_company\\assets\\FinalAssets\\` 폴더 내 모든 PSD 파일을 프로젝트에 임포트합니다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-17T03:47:55.824Z",
+      "status": "done",
+      "sessionDir": "2026-06-17T03-42",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-17T03-42/_report.md\n- Designer: Editor가 Mockup 작업을 원활하게 시작할 수 있도록, 최종적으로 납품된 모든 PSD 레이어 에셋과 확정된 CTA 영역의 구도적 규칙을 \n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\nCEO의 지시와 목표를 종합했을 때, 가장 중요한 다음 스텝은 '작업 오류 가능성을 0으로 만드는' 최종 점검 및 프로세스 표준화입니다. 에디터가 막힘없이 Mockup 작업을 시작할 수 있도록, 디자인 시스템 가이드라인을 기반으로 **최종 자산 연결 및 버전 관리 체크리스트**를 작성하여 납품하겠습니다.\n\n이 문서는",
+      "completedAt": "2026-06-17T03:47:55.916Z"
+    },
+    {
+      "id": "20260617034755-vm4u",
+      "title": "**레이어 테스트:** 각 페이지의 주요 레이어(캐릭터, 배경)를 개별적으로 보이게/숨기게 하여, 어느 하나가 다른 요소와 겹치거나 누락되지 않는지 확인합니다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-17T03:47:55.854Z",
+      "status": "done",
+      "sessionDir": "2026-06-17T03-42",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-17T03-42/_report.md\n- Designer: Editor가 Mockup 작업을 원활하게 시작할 수 있도록, 최종적으로 납품된 모든 PSD 레이어 에셋과 확정된 CTA 영역의 구도적 규칙을 \n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\nCEO의 지시와 목표를 종합했을 때, 가장 중요한 다음 스텝은 '작업 오류 가능성을 0으로 만드는' 최종 점검 및 프로세스 표준화입니다. 에디터가 막힘없이 Mockup 작업을 시작할 수 있도록, 디자인 시스템 가이드라인을 기반으로 **최종 자산 연결 및 버전 관리 체크리스트**를 작성하여 납품하겠습니다.\n\n이 문서는",
+      "completedAt": "2026-06-17T03:47:55.944Z"
+    },
+    {
+      "id": "20260617034755-e4ap",
+      "title": "**CTA 박스 분리:** 페이지 끝에 위치하는 '오늘의 교훈' 및 '실행 체크리스트'는 Mockup 제작 시 가장 먼저, 별도의 모듈로 만들어 적용합니다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-17T03:47:55.871Z",
+      "status": "done",
+      "sessionDir": "2026-06-17T03-42",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-17T03-42/_report.md\n- Designer: Editor가 Mockup 작업을 원활하게 시작할 수 있도록, 최종적으로 납품된 모든 PSD 레이어 에셋과 확정된 CTA 영역의 구도적 규칙을 \n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\nCEO의 지시와 목표를 종합했을 때, 가장 중요한 다음 스텝은 '작업 오류 가능성을 0으로 만드는' 최종 점검 및 프로세스 표준화입니다. 에디터가 막힘없이 Mockup 작업을 시작할 수 있도록, 디자인 시스템 가이드라인을 기반으로 **최종 자산 연결 및 버전 관리 체크리스트**를 작성하여 납품하겠습니다.\n\n이 문서는",
+      "completedAt": "2026-06-17T03:47:55.964Z"
+    },
+    {
+      "id": "20260617034755-4h3g",
+      "title": "**저장률 유도 문구 배치:** 모든 마지막 페이지에는 \"👉 이 구체적인 방법을 잊지 않도록 저장하세요!\"와 같은 Save Rate 극대화 CTA가 반드시 포함되어야 합니다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-17T03:47:55.888Z",
+      "status": "done",
+      "sessionDir": "2026-06-17T03-42",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-17T03-42/_report.md\n- Designer: Editor가 Mockup 작업을 원활하게 시작할 수 있도록, 최종적으로 납품된 모든 PSD 레이어 에셋과 확정된 CTA 영역의 구도적 규칙을 \n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\nCEO의 지시와 목표를 종합했을 때, 가장 중요한 다음 스텝은 '작업 오류 가능성을 0으로 만드는' 최종 점검 및 프로세스 표준화입니다. 에디터가 막힘없이 Mockup 작업을 시작할 수 있도록, 디자인 시스템 가이드라인을 기반으로 **최종 자산 연결 및 버전 관리 체크리스트**를 작성하여 납품하겠습니다.\n\n이 문서는",
+      "completedAt": "2026-06-17T03:47:55.981Z"
     }
   ]
 }
