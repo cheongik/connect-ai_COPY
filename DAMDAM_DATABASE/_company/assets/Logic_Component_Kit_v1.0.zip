@@ -1,0 +1,5 @@
+[ZIP 파일 구조]
+├── 01_Guidebook: 논리컴포넌트_가이드라인_v1.0.md (위에서 생성됨)
+├── 02_PSD_Master_Template: Logic_Flow_Diagram_v1.psd (에너지 흐름 다이어그램 마스터)
+├── 03_PSD_Variable_Def: Formula_Block_A_v1.psd (변수 정의 박스 마스터)
+└── 04_Image_Set: ColorPalette_Logic.png (논리 영역용 컬러 팔레트 시각화)
