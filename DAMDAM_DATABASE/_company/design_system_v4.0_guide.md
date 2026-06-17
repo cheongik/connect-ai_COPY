@@ -1,0 +1,1 @@
+# Webtoon Design System v4.0: Resource Management
