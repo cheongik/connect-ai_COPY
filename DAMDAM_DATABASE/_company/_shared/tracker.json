@@ -9,11 +9,13 @@
         "writer"
       ],
       "createdAt": "2026-06-17T02:03:00.144Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-06-17T01-57",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-17T01-57/_report.md\n- Writer: 이전 세션에서 논의된 두 가지 주제('디지털 경계' vs '감정 노동') 중, 이번 주 콘텐츠로 최종 확정할 단일 웹툰 주제를 선택하고, 모든 \n- Designer: Writer가 제공한 최종 확정 스크립트를 기준으로, 인스타그램 캐러셀 Mockup 초안(최소 5페이지 분량)을 완성합니다. 이때 Blue-Gr\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 이전 세션에서 논의된 두 가지 주제('디지털 경계' vs '감정 노동') 중, 이번 주 콘텐츠로 최종 확정할 단일 웹툰 주제를 선택하고, 모든 페이지 컷별 스크립트와 CTA/Save Point 문구를 명확하게 정리하여 Designer에게 전",
+      "completedAt": "2026-06-17T02:10:42.866Z"
     },
     {
       "id": "20260617020300-llxb",
@@ -24,11 +26,13 @@
         "writer"
       ],
       "createdAt": "2026-06-17T02:03:00.181Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-06-17T01-57",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-17T01-57/_report.md\n- Writer: 이전 세션에서 논의된 두 가지 주제('디지털 경계' vs '감정 노동') 중, 이번 주 콘텐츠로 최종 확정할 단일 웹툰 주제를 선택하고, 모든 \n- Designer: Writer가 제공한 최종 확정 스크립트를 기준으로, 인스타그램 캐러셀 Mockup 초안(최소 5페이지 분량)을 완성합니다. 이때 Blue-Gr\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 이전 세션에서 논의된 두 가지 주제('디지털 경계' vs '감정 노동') 중, 이번 주 콘텐츠로 최종 확정할 단일 웹툰 주제를 선택하고, 모든 페이지 컷별 스크립트와 CTA/Save Point 문구를 명확하게 정리하여 Designer에게 전",
+      "completedAt": "2026-06-17T02:10:42.887Z"
     },
     {
       "id": "20260617020300-150d",
@@ -39,11 +43,13 @@
         "writer"
       ],
       "createdAt": "2026-06-17T02:03:00.197Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-06-17T01-57",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-17T01-57/_report.md\n- Writer: 이전 세션에서 논의된 두 가지 주제('디지털 경계' vs '감정 노동') 중, 이번 주 콘텐츠로 최종 확정할 단일 웹툰 주제를 선택하고, 모든 \n- Designer: Writer가 제공한 최종 확정 스크립트를 기준으로, 인스타그램 캐러셀 Mockup 초안(최소 5페이지 분량)을 완성합니다. 이때 Blue-Gr\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 이전 세션에서 논의된 두 가지 주제('디지털 경계' vs '감정 노동') 중, 이번 주 콘텐츠로 최종 확정할 단일 웹툰 주제를 선택하고, 모든 페이지 컷별 스크립트와 CTA/Save Point 문구를 명확하게 정리하여 Designer에게 전",
+      "completedAt": "2026-06-17T02:10:42.898Z"
     }
   ]
 }
