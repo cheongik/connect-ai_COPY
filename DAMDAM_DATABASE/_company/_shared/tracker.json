@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": "20260617020300-cue7",
+      "title": "오늘 나에게 에너지를 소모시킨 사람/상황은 무엇이었는지 기록하기.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-06-17T02:03:00.144Z",
+      "status": "pending",
+      "sessionDir": "2026-06-17T01-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260617020300-llxb",
+      "title": "내일, 그 상황에서 '거절할 수 있는 한 마디'를 미리 연습해 보기.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-06-17T02:03:00.181Z",
+      "status": "pending",
+      "sessionDir": "2026-06-17T01-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260617020300-150d",
+      "title": "30분간 오롯이 나만을 위한 루틴(산책, 독서 등)을 계획하고 달력에 표시하기.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-06-17T02:03:00.197Z",
+      "status": "pending",
+      "sessionDir": "2026-06-17T01-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    }
+  ]
+}
